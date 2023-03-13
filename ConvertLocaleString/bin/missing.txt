@@ -1,0 +1,187 @@
+[DragonSoul.cpp] line 329: Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.
+[DragonSoul.cpp] line 373: ¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.
+[DragonSoul.cpp] line 399: ¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.
+[DragonSoul.cpp] line 476: ¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.
+[DragonSoul.cpp] line 497: ¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.
+[DragonSoul.cpp] line 499: ¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.
+[DragonSoul.cpp] line 539: µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.
+[DragonSoul.cpp] line 573: µî±Ş °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.
+[DragonSoul.cpp] line 655: µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.
+[DragonSoul.cpp] line 664: µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+[DragonSoul.cpp] line 697: ´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.
+[DragonSoul.cpp] line 728: ´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.
+[DragonSoul.cpp] line 807: ´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.
+[DragonSoul.cpp] line 816: ´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+[DragonSoul.cpp] line 899: °­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.
+[DragonSoul.cpp] line 922: °­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.
+[DragonSoul.cpp] line 974: °­È­¿¡ ¼º°øÇß½À´Ï´Ù.
+[DragonSoul.cpp] line 998: °­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+[MountSystem.cpp] line 460: _TRANSLATE_CHAT_TYPE_PACKETS_FROM_SOURCE_TO_GLOBAL__TRANSLATE_LIST_110
+[char.cpp] line 867: ÀåºñÁßÀÎ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char.cpp] line 873: »ç¿ëÁßÀÎ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char.cpp] line 4535: ³¬½Ã¸¦ ÇÒ ¼ö ÀÖ´Â °÷ÀÌ ¾Æ´Õ´Ï´Ù
+[char.cpp] line 8178: The acce window it's already opened.
+[char.cpp] line 8809: [Gaya] Nu ai suficiente iteme Gaya Market.
+[char.cpp] line 8842: [Gaya] Nu ai suficient Gaya.
+[char.cpp] line 8847: [Gaya] Acest slot nu este deblocat.
+[char.cpp] line 8880: [Gaya] Nu ai suficient spatiu.
+[char.cpp] line 8913: [Gaya] Nu ai suficiente : Gaya Market Expansion.Ai nevoie de mai multe %d pentru a debloca acest slot.
+[char.cpp] line 8918: [Gaya] Nu se mai poate debloca un alt slot.
+[char.cpp] line 8982: NOT_ENOUGHT_COUNT
+[char.cpp] line 8988: NOT_ENOUGHT_YANG
+[char.cpp] line 9001: MAX_GEM_MAX
+[char_battle.cpp] line 1856: %s ºí·°! (%d%%)
+[char_battle.cpp] line 1871: %s È¸ÇÇ! (%d%%)
+[char_battle.cpp] line 2324: %s[%d]°¡ °ø°İ À§Ä¡: %d %d
+[char_dragonsoul.cpp] line 76: ¿ëÈ¥¼® »óÀÚ°¡ È°¼ºÈ­µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+[char_horse.cpp] line 30: ¾²·¯Áø »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 1417: ¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù
+[char_item.cpp] line 1623: ÀÌ ¾ÆÀÌÅÛÀ¸·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 2616: °³ÀÎ »óÁ¡À» ¿­ ¼ö ¾ø´Â Áö¿ªÀÔ´Ï´Ù
+[char_item.cpp] line 2791: ¾ÆÁ÷ °ñµå¸¦ ¹ö¸± ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 2808: ¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.
+[char_item.cpp] line 2890: º¯½ÅÁß¿¡´Â Ã¥À» ÀĞÀ»¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 3176: %dÃÊ ¸¸Å­ ÃæÀüµÇ¾ú½À´Ï´Ù.
+[char_item.cpp] line 3192: ÃæÀüÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 3684: °¨Áö±â¸¦ ÀÛ¿ëÇÏ¿´À¸³ª °¨ÁöµÇ´Â ¿µ¼®ÀÌ ¾ø½À´Ï´Ù.
+[char_item.cpp] line 4201: ¾ÆÁ÷ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 4206: Å×½ºÆ® ¼­¹ö ½Ã°£Á¦ÇÑ Åë°ú
+[char_item.cpp] line 4212: ¼±¾ÇÄ¡¸¦ ´õ ÀÌ»ó ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 4261: »©³¾ ¿µ¼®ÀÌ ¾ø½À´Ï´Ù
+[char_item.cpp] line 4650: ¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù
+[char_item.cpp] line 4670: ´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù
+[char_item.cpp] line 4708: º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù
+[char_item.cpp] line 5296: +3 ¿µ¼®Àº ÀÌ ¾ÆÀÌÅÛÀ¸·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù
+[char_item.cpp] line 5308: ¿µ¼®Àº ÀÌ ¾ÆÀÌÅÛÀ¸·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù
+[char_item.cpp] line 5536: Àû¿ë ·¹º§º¸´Ù ³ô¾Æ »ç¿ëÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.
+[char_item.cpp] line 5542: ¹«±â¿Í °©¿Ê¿¡¸¸ »ç¿ë °¡´ÉÇÕ´Ï´Ù.
+[char_item.cpp] line 6144: ±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 6153: ¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 6287: You cannot use this item if you're using quests
+[char_item.cpp] line 6337: °­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 6475: ¶³¾îÁø ¾ÆÀÌÅÛÀº %dºĞ ÈÄ »ç¶óÁı´Ï´Ù.
+[char_item.cpp] line 6530: ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 6578: You cannot unequip the costume weapon. Not enough space.
+[char_item.cpp] line 6592: ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.
+[char_item.cpp] line 6853: You cannot pickup this item if you're using quests
+[char_item.cpp] line 7409: ¸»À» Åº »óÅÂ¿¡¼­ ¿¹º¹À» ÀÔÀ» ¼ö ¾ø½À´Ï´Ù.
+[char_item.cpp] line 7428: ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.
+[char_item.cpp] line 7471: You cannot equip the costume weapon. Wrong equipped weapon.
+[char_item.cpp] line 8319: You cannot take this item if you're using quests
+[char_item.cpp] line 8855: µĞ°©ÇÒ ¼ö ¾ø´Â »óÅÂÀÔ´Ï´Ù.
+[cmd.cpp] line 784: ¸ñ¼ûÀ» °É°í ÀüÅõ Áß ÀÔ´Ï´Ù. ÁıÁß ÇÏ¼¼¿ä.
+[cmd_emotion.cpp] line 148: ¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[cmd_emotion.cpp] line 204: ¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 456: Á» ´õ °¡±îÀÌ °¡¼­ ³»¸®¼¼¿ä.
+[cmd_general.cpp] line 473: °Å±â¿¡´Â Å» ¼ö ¾ø¾î¿ä.
+[cmd_general.cpp] line 481: Á» ´õ °¡±îÀÌ °¡¼­ Å¸¼¼¿ä.
+[cmd_general.cpp] line 1218: <±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.
+[cmd_general.cpp] line 1451: Á¤½Å·ÂÀÌ ºÎÁ·ÇÏ¿© ´Ù¸¥ »ç¶÷ÀÇ Àåºñ¸¦ º¼ ¼ö ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 1525: ±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù
+[cmd_general.cpp] line 1543: ±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %u ÇÊ¿ä±İ¾× : %u
+[cmd_general.cpp] line 1579: ÇØ´ç Áö¿ªÀ¸·Î ÀÌµ¿ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 1641: »ç¿ë¹ı: transfer <name>
+[cmd_general.cpp] line 1680: ´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 1685: %s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)
+[cmd_general.cpp] line 1695: ÇØ´ç Áö¿ªÀ¸·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 1707: %s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.
+[cmd_general.cpp] line 1716: ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 1725: ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[cmd_general.cpp] line 1919: ÀÚ±¹ ¿µÅä¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù
+[cmd_general.cpp] line 2539: ´ç½ÅÀÌ ÁÖ»çÀ§¸¦ ±¼·Á %d°¡ ³ª¿Ô½À´Ï´Ù. (%d-%d)
+[cmd_general.cpp] line 2553: You cannot open the safebox in dungeon or at war.
+[cmd_general.cpp] line 2883: CHANGE_LOOK_NEED_ITEM.
+[cmd_general.cpp] line 2891: CHANGE_LOOK_ANTIFLAG_CHANGE_LOOK.
+[cmd_general.cpp] line 2909: CHANGE_LOOK_ITEM_REMOVE
+[cmd_general.cpp] line 2910: CHANGE_LOOK_GOLD_REMOVE
+[cmd_general.cpp] line 2914: CHANGE_LOOK_NOT_ENOUGH_MONEY
+[cmd_general.cpp] line 2919: CHANGE_LOOK_WRONG_TYPES
+[cmd_gm.cpp] line 4862: Cannot set stat under initial stat.
+[config.cpp] line 1792: ??????? ?????? ??? ????? ????. ?????????? ??? ?? ?????????.
+[cube.cpp] line 577: Á¦Á¶¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.
+[db.cpp] line 1071:  È¹: %s
+[db.cpp] line 1312: %dÂºÃÃ€Ã‡ Â°Ã¡ÃÂ¦Â½ÃƒÂ°Â£Ã€ÃŒ ÃƒÃŸÂ°Â¡ ÂµÃ‡Â¾ÃºÂ½Ã€Â´ÃÂ´Ã™. (Â°Ã¡ÃÂ¦Â¹Ã¸ÃˆÂ£ %d)
+[exchange.cpp] line 743: You cannot trade if you're using quests
+[exchange.cpp] line 744: You cannot trade if the other part using quests
+[fishing.cpp] line 886: <FishRod> PRE %u
+[fishing.cpp] line 889: <FishRod> POST %u
+[fishing.cpp] line 890: <FishRod> The upgrade has failed, and the fishrod has lost 10%% of its mastery points.
+[guild.cpp] line 927: <Â±Ã¦ÂµÃ¥> ÃÂ¦Â°Ã¸Ã‡ÃÂ°Ã­Ã€Ãš Ã‡ÃÂ´Ã‚ Â°Ã¦Ã‡Ã¨Ã„Â¡Â°Â¡ Â³Â²Ã€Âº Â°Ã¦Ã‡Ã¨Ã„Â¡ÂºÂ¸Â´Ã™ Â¸Â¹Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1047: <Â±Ã¦ÂµÃ¥> Â»Ã¨ÃÂ¦Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â´Ã‚ Â±Ã›Ã€Ã”Â´ÃÂ´Ã™.
+[guild.cpp] line 1298: <Â±Ã¦ÂµÃ¥> Â¿Ã«Â½Ã…Â·Ã‚Ã€ÃŒ ÂºÃÃÂ·Ã‡Ã•Â´ÃÂ´Ã™. (%d, %d)
+[guild.cpp] line 1307: <Â±Ã¦ÂµÃ¥> Ã„Ã°Ã…Â¸Ã€Ã“Ã€ÃŒ Â³Â¡Â³ÂªÃÃ¶ Â¾ÃŠÂ¾Ã† Â±Ã¦ÂµÃ¥ Â½ÂºÃ…Â³Ã€Â» Â»Ã§Â¿Ã«Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1326: <Â±Ã¦ÂµÃ¥> %d Â½ÂºÃ…Â³Ã€Â» Â»Ã§Â¿Ã«Ã‡Ã” (%d, %d) to %u
+[guild.cpp] line 1347: <Â±Ã¦ÂµÃ¥> Â»Ã³Â´Ã«Â°Â¡ %d ÃƒÂ¤Â³ÃÂ¿Â¡ Ã€Ã–Â½Ã€Â´ÃÂ´Ã™. (Ã‡Ã¶Ã€Ã§ ÃƒÂ¤Â³Ã %d)
+[guild.cpp] line 1360: <Â±Ã¦ÂµÃ¥> Â»Ã³Â´Ã«Â°Â¡ Â¿Ã‚Â¶Ã³Ã€Ã Â»Ã³Ã…Ã‚Â°Â¡ Â¾Ã†Â´Ã•Â´ÃÂ´Ã™.
+[guild.cpp] line 1374: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥Ã€Ã¥Â¸Â¸ Â±Ã¦ÂµÃ¥ Â½ÂºÃ…Â³Ã€Â» Â»Ã§Â¿Ã«Ã‡Ã’ Â¼Ã¶ Ã€Ã–Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1380: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥ Â½ÂºÃ…Â³Ã€Âº Â±Ã¦ÂµÃ¥Ã€Ã¼ ÃÃŸÂ¿Â¡Â¸Â¸ Â»Ã§Â¿Ã«Ã‡Ã’ Â¼Ã¶ Ã€Ã–Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1740: <Â±Ã¦ÂµÃ¥> %uÃ€Ã‡ Â¿Ã«Â½Ã…Â·Ã‚Ã€Â» ÃˆÂ¸ÂºÂ¹Ã‡ÃÂ¿Â´Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1804: <Â±Ã¦ÂµÃ¥> Ã€Ã¡Â½ÃƒÃˆÃ„Â¿Â¡ Ã€ÃŒÂ¿Ã«Ã‡Ã˜ÃÃ–Â½ÃŠÂ½ÃƒÂ¿Ã€
+[guild.cpp] line 1837: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥ Â±ÃÂ°Ã­Â¿Â¡Â¼Â± Â±Ã¦ÂµÃ¥Ã€Ã¥Â¸Â¸ ÃƒÃ¢Â±ÃÃ‡Ã’ Â¼Ã¶ Ã€Ã–Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1843: <Â±Ã¦ÂµÃ¥> Â°Â¡ÃÃ¶Â°Ã­ Ã€Ã–Â´Ã‚ ÂµÂ·Ã€ÃŒ ÂºÃÃÂ·Ã‡Ã•Â´ÃÂ´Ã™.
+[guild.cpp] line 1938: <Â±Ã¦ÂµÃ¥> Â»Ã³Â´Ã«Â¹Ã¦Ã€ÃŒ ÃƒÃŠÂ´Ã« Â½Ã…ÃƒÂ»Ã€Â» Â¹ÃÃ€Â» Â¼Ã¶ Â¾Ã¸Â´Ã‚ Â»Ã³Ã…Ã‚Ã€Ã”Â´ÃÂ´Ã™.
+[guild.cpp] line 1948: <Â±Ã¦ÂµÃ¥> Â»Ã³Â´Ã«Â¹Ã¦Ã€ÃŒ Â±Ã¦ÂµÃ¥ ÃƒÃŠÂ´Ã« Â°Ã…ÂºÃ Â»Ã³Ã…Ã‚Ã€Ã”Â´ÃÂ´Ã™.
+[guild.cpp] line 1953: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥Â¿Ã¸Ã€Â» ÃƒÃŠÂ´Ã«Ã‡Ã’ Â±Ã‡Ã‡Ã‘Ã€ÃŒ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1958: <Â±Ã¦ÂµÃ¥> Â´Ã™Â¸Â¥ ÃÂ¦Â±Â¹ Â»Ã§Â¶Ã·Ã€Â» Â±Ã¦ÂµÃ¥Â¿Â¡ ÃƒÃŠÂ´Ã«Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1967: <Â±Ã¦ÂµÃ¥> Ã…Â»Ã…Ã°Ã‡Ã‘ ÃˆÃ„ %dÃ€ÃÃ€ÃŒ ÃÃ¶Â³ÂªÃÃ¶ Â¾ÃŠÃ€Âº Â»Ã§Â¶Ã·Ã€Âº Â±Ã¦ÂµÃ¥Â¿Â¡ ÃƒÃŠÂ´Ã«Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™."), quest::CQuestManager::instance().GetEventFlag("guild_withdraw_delay
+[guild.cpp] line 1970: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥Â¸Â¦ Ã‡Ã˜Â»ÃªÃ‡Ã‘ ÃÃ¶ %dÃ€ÃÃ€ÃŒ ÃÃ¶Â³ÂªÃÃ¶ Â¾ÃŠÃ€Âº Â»Ã§Â¶Ã·Ã€Âº Â±Ã¦ÂµÃ¥Â¿Â¡ ÃƒÃŠÂ´Ã«Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™."), quest::CQuestManager::instance().GetEventFlag("guild_disband_delay
+[guild.cpp] line 1972: <Â±Ã¦ÂµÃ¥> Â»Ã³Â´Ã«Â¹Ã¦Ã€ÃŒ Ã€ÃŒÂ¹ÃŒ Â´Ã™Â¸Â¥ Â±Ã¦ÂµÃ¥Â¿Â¡ Â¼Ã“Ã‡Ã˜Ã€Ã–Â½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1973: <Â±Ã¦ÂµÃ¥> ÃƒÃ–Â´Ã« Â±Ã¦ÂµÃ¥Â¿Ã¸ Â¼Ã¶Â¸Â¦ ÃƒÃŠÂ°ÃºÃ‡ÃŸÂ½Ã€Â´ÃÂ´Ã™.
+[guild.cpp] line 1974: <Â±Ã¦ÂµÃ¥> Ã‡Ã¶Ã€Ã§ Â±Ã¦ÂµÃ¥Â°Â¡ Ã€Ã¼Ã€Ã¯ ÃÃŸ Ã€Ã”Â´ÃÂ´Ã™.
+[guild.cpp] line 1975: <Â±Ã¦ÂµÃ¥> Ã‡Ã¶Ã€Ã§ Â½Ã…Â±Ã” Â°Â¡Ã€Ã” ÃÂ¦Ã‡Ã‘ Â»Ã³Ã…Ã‚ Ã€Ã”Â´ÃÂ´Ã™.
+[guild_manager.cpp] line 83: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥ Ã€ÃŒÂ¸Â§Ã€ÃŒ Ã€Ã»Ã‡Ã•Ã‡ÃÃÃ¶ Â¾ÃŠÂ½Ã€Â´ÃÂ´Ã™.
+[guild_manager.cpp] line 103: <Â±Ã¦ÂµÃ¥> Ã€ÃŒÂ¹ÃŒ Â°Â°Ã€Âº Ã€ÃŒÂ¸Â§Ã€Ã‡ Â±Ã¦ÂµÃ¥Â°Â¡ Ã€Ã–Â½Ã€Â´ÃÂ´Ã™.
+[guild_manager.cpp] line 109: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥Â¸Â¦ Â»Ã½Â¼ÂºÃ‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.
+[guild_manager.cpp] line 568: <Â±Ã¦ÂµÃ¥> %s Â±Ã¦ÂµÃ¥Â°Â¡ Â±Ã¦ÂµÃ¥Ã€Ã¼Ã€Â» Â°Ã…ÂºÃÃ‡ÃÂ¿Â´Â½Ã€Â´ÃÂ´Ã™.
+[guild_manager.cpp] line 752: <Â±Ã¦ÂµÃ¥> Â±Ã¦ÂµÃ¥Ã€Ã¼Ã€ÃŒ ÃƒÃ«Â¼Ã’ ÂµÃ‡Â¾ÃºÂ½Ã€Â´ÃÂ´Ã™.
+[input_db.cpp] line 2810: ÇöÀç %s ±¹°í¿¡´Â %u ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù
+[input_login.cpp] line 845: ÀÌ ¸Ê¿¡¼± °­Á¦ÀûÀÎ ´ëÀüÀÌ ÀÖÀ»¼ö µµ ÀÖ½À´Ï´Ù.
+[input_login.cpp] line 846: ÀÌ Á¶Ç×¿¡ µ¿ÀÇÇÏÁö ¾ÊÀ»½Ã
+[input_login.cpp] line 847: º»ÀÎÀÇ ÁÖ¼º ¹× ºÎ¼ºÀ¸·Î µ¹¾Æ°¡½Ã±â ¹Ù¶ø´Ï´Ù.
+[input_main.cpp] line 740: %sÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+[input_main.cpp] line 1299: ±ºÁÖ¿Í´Â °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù
+[input_main.cpp] line 1888: Attack :name[%s] Vnum[%d] can't use skill by attack(warning)
+[input_main.cpp] line 2239: <Ã¢°í> Ã¢°í·Î ¿Å±æ ¼ö ¾ø´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù.
+[input_main.cpp] line 2286: º§Æ® ÀÎº¥Åä¸®¿¡ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏ¸é ÇØÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[input_main.cpp] line 2379: <ì°½ê³ > ì˜®ê¸¸ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.
+[input_main.cpp] line 2594: <ÆÄÆ¼> ¾îÅÂÄ¿ ¼³Á¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.
+[input_main.cpp] line 2640: <ÆÄÆ¼>´øÀü ¾È¿¡ ÆÄÆ¼¿øÀÌ ÀÖ¾î ÆÄÆ¼¸¦ ÇØ»ê ÇÒ ¼ö ¾ø½À´Ï´Ù.
+[input_main.cpp] line 3287: <±æµå> ±æµåÀü Áß¿¡´Â ±æµå¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.
+[input_main.cpp] line 3394: <±æµå> ±æµå°¡ ÀÌ¹Ì ÃÖ°í ·¹º§ÀÔ´Ï´Ù.
+[input_main.cpp] line 3403: <±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.
+[input_main.cpp] line 3616: Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù
+[input_teen.cpp] line 99: ´ç½ÅÀÇ ´©Àû ¿Â¶óÀÎ ½Ã°£ÀÌ ÀÌ¹Ì %d½Ã°£ÀÌ Áö³µ½À´Ï´Ù.
+[input_teen.cpp] line 105: ´ç½ÅÀÇ ´©Àû ¿Â¶óÀÎ ½Ã°£ÀÌ ÀÌ¹Ì %d½Ã°£ÀÌ µÇ¾ú½À´Ï´Ù,
+[input_teen.cpp] line 106: Á¶¼ÓÈ÷ Á¢¼ÓÀ» Á¾·áÇÏ½Å ÈÄ °Ç°­À» À§ÇØ ÈŞ½ÄÀ» ÃëÇØÁÖ½Ã±â¹Ù¶ø´Ï´Ù.
+[input_teen.cpp] line 112: ´ç½ÅÀº ÀÌ¹Ì °ÔÀÓ ÇÇ·Î »óÅÂ¿¡ µé¾î¼¹À¸¸ç,
+[input_teen.cpp] line 113: °ÔÀÓ ³»ÀÇ ¼öÀÍÀÌ Á¤»óÄ¡ÀÇ 50%·Î ÇÏÇâµË´Ï´Ù.
+[input_teen.cpp] line 114: ´ç½ÅÀÇ °Ç°­À» À§ÇØ Á¶¼ÓÈ÷ Á¢¼ÓÀ» Á¾·áÇÏ½Ã°í
+[input_teen.cpp] line 115: ÈŞ½Ä ¹× ÇĞ¾÷¿¡ ¿­ÁßÇØÁÖ½Ê½Ã¿À.
+[input_teen.cpp] line 121: ´ç½ÅÀº ÀÌ¹Ì ¿ÂÀüÇÏÁö ¸øÇÑ °ÔÀÓ ½Ã°£¿¡ µé¾î¼¹½À´Ï´Ù.
+[input_teen.cpp] line 122: °Ç°­À» À§ÇØ Á¶¼ÓÈ÷ Á¢¼ÓÀ» Á¾·áÇÏ½Å ÈÄ ÈŞ½ÄÀ» ÃëÇØÁÖ½Ê½Ã¿À,
+[input_teen.cpp] line 123: ±×·¸Áö ¾ÊÀ¸¸é °Ç°­ »ó¿¡ ÇÇÇØ¸¦ ÀÔÀ» ¼ö ÀÖÀ¸¸ç °ÔÀÓ ³»ÀÇ ¼öÄ¡´Â 0ÀÌ µË´Ï´Ù.
+[input_teen.cpp] line 124: ´©Àû ¿ÀÇÁ¶óÀÎ ½Ã°£ÀÌ 5½Ã°£ÀÌ µÇ¸é Á¤»óÀ¸·Î µ¹¾Æ¿É´Ï´Ù.
+[input_teen.cpp] line 160: ´ç½ÅÀÇ ´©Àû ¿ÀÇÁ¶óÀÎ ½Ã°£Àº %sÀÔ´Ï´Ù.
+[input_teen.cpp] line 161: ´ç½ÅÀÇ ´©Àû ¿Â¶óÀÎ ½Ã°£Àº 0ÀÌ µÇ¾ú½À´Ï´Ù. 100% È¿°ú¸¦ ¾òÀ¸½Ç ¼ö ÀÖ½À´Ï´Ù.
+[input_teen.cpp] line 166: ´ç½ÅÀÇ ´©Àû ¿ÀÇÁ¶óÀÎ ½Ã°£Àº %sÀÌ¸ç, ´©Àû ¿Â¶óÀÎ ½Ã°£Àº %sÀÔ´Ï´Ù.
+[item.cpp] line 1967: %s¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d
+[messenger_manager.cpp] line 133: »ó´ë¹æÀÌ Ä£±¸ Ãß°¡¸¦ ¹ŞÀ» ¼ö ¾ø´Â »óÅÂÀÔ´Ï´Ù.
+[mining.cpp] line 281: <Pickax> PRE %u
+[mining.cpp] line 283: <Pickax> POST %u
+[mining.cpp] line 284: <Pickax> The upgrade has failed, and the pickax has lost 10%% of its mastery points.
+[new_switchbot.cpp] line 350: Switchbot stopped. Out of switchers.
+[new_switchbot.cpp] line 354: Switchbot stopped. Not enough money.
+[questlua_monarch.cpp] line 418: ¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.
+[questlua_monarch.cpp] line 468: TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.
+[questlua_monarch.cpp] line 469: TEST : ÇöÀç ±¹°í : %d
+[questlua_monarch.cpp] line 475: TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.
+[questlua_monarch.cpp] line 874: %s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼ÓÁßÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)
+[questlua_monarch.cpp] line 897: ¼ÒÈ¯ ¿äÃ»À» º¸³Â½À´Ï´Ù
+[questlua_monarch.cpp] line 924: %s ´ÔÀº ±ÙÃ³¿¡ ÀÖ½À´Ï´Ù
+[questlua_pc.cpp] line 441:  %d  È¹ß½Ï´.
+[questlua_pc.cpp] line 445:   Åº  É´Ï´.
+[questlua_pc.cpp] line 446: %d Ä¡ È¹ß½Ï´.
+[questlua_pc.cpp] line 2676: ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ìƒì ê±°ë˜ë¥¼ í• ìˆ˜ ê°€ ì—†ìŠµë‹ˆë‹¤.
+[questlua_pc.cpp] line 3471: Ù¸ Å·Ã¢ Â¿ Å· Ò¼  Ï´.
+[shop_manager.cpp] line 418: Âø¿ë ÁßÀÎ ¾ÆÀÌÅÛÀº ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.
+[shutdown_manager.cpp] line 61: ¼Ë´Ù¿îÁ¦ ½ÃÇàÀ¸·Î 10ºĞ µÚ Á¾·áµË´Ï´Ù.

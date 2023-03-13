@@ -1,0 +1,458 @@
+0	O duelo terminou porque o teu adversário desapareceu.
+1	Não há limite para Poções.
+2	Podes usar até %d Poções.
+3	A batalha começa em 10 segundos.
+4	O duelo começou.
+5	O duelo terminou porque ocorreu um problema na arena.
+6	O duelo terminou por causa do tempo limite.
+7	Dentro de 10 segundos irás ser transportado para a cidade.
+8	O teu adversário está com problemas. O duelo terminou
+9	%s ganhou o duelo!
+10	%s ganhou!
+11	Irás ser transportado para dentro da cidade dentro de 10 segundos.
+12	A próxima ronda começa dentro de 10 segundos.
+13	Os adversários foram separados. O duelo terminou.
+14	Cancelado, estás a ser atacado.
+15	Não é possível abrir uma loja enquanto não agires.
+16	Retira a armadura se quiseres abrir uma loja.
+17	Não podes abrir o Armazém porque tens mais de 2 Biliões de Yang.
+18	Não podes nomear o teu Armazém com um nome inválido.
+19	Erro: Não podes vender num Armazém.
+20	A mineração terminou.
+21	Comprar uma picareta.
+22	Por favor, seleccione o seu anjo.
+23	Prende o isco no gancho.
+24	Não podes pecar sem cana de pesca!
+25	<Grupo> Não podes fazer um pedido porque o líder do Grupo não está online.
+26	<Grupo> O Servidor não conseguiu processar o pedido.
+27	<Grupo> Não podes convidar jogadores de outros reinos.
+28	<Grupo> Não podes criar o Grupo.
+29	<Grupo> Não podes convidar membros para o Grupo.
+30	<Grupo> Apenas jogadores com níveis aproximados se podem juntar ao grupo.
+31	<Grupo> Não podes convidar pois o teu nível é muito baixo.
+32	<Grupo> Não podes convidar pois o teu nível é muito alto.
+33	<Grupo> O Grupo está cheio. Não podes convidar mais pessoas.
+34	%s enviou um pedido de grupo.
+35	O jogador não está no grupo.
+36	<Grupo> O Grupo está cheio.
+37	<Grupo> Não tens permissões para convidar.
+38	<Grupo> %s rejeitou o convite.
+39	<Grupo> %s já está no Grupo.
+40	<Grupo> Não podes criar o Grupo.
+41	<Grupo> Não podes aceitar o convite.
+42	<Grupo> %s rejeitou o convite.
+43	<Grupo> %s entrou no Grupo.
+44	<Grupo> %s entrou no Grupo.
+45	Este jogador já está a negociar com outra pessoa.
+46	<Armazém> Senha incorrecta.
+47	<Armazém> O Armazém já está aberto.
+48	<Armazém> Tens de esperar 10 segundos para abrir novamente o Armazém.
+49	<Armazém> Estás muito longe do Armazém!
+50	Não te podes transportar para junto do jogador.
+51	O jogador não está online.
+52	O jogador está no canal %d. O teu canal é %d.
+53	Não podes ir para qualquer lugar segundos após teres aberto o Armazém.
+54	Não podes ir a qualquer lado, não podes sair enquanto negoceias.
+55	Não podes ir para outro lugar durante %d segundos após teres negociado.
+56	Não podes transportar durante %d segundos após teres negociado.
+57	Precisas de fechar a janela das faixas para fazeres esta ação.
+58	Precisas de fechar a janela das faixas para fazeres esta ação.
+59	Não podes adicionar itens bloqueados.
+60	Não podes adicionar itens protegidos.
+61	Só podes combinar faixas do mesmo tipo.
+62	Esta faixa já se encontra com a máxima absorção.
+63	Só podes absorver bónus de armas e armaduras.
+64	[Gaya] Slot indisponibil.
+65	O teu chat foi bloqueado por um GM.
+66	O bloqueio no chat desapareceu.
+67	Não perdeste Experiência devido à benção do Deus Dragão.
+68	Não deixaste cair nenhum item porque estás protegido pela Bênção do Deus Dragão.
+69	<Guild> Não podes lutar contra monstros durante uma Guerra de Guild!
+70	Dano Adicional Empurrado %d
+71	Não podes montar a Cavalo enquanto tiveres transformado.
+72	Não podes montar enquanto vestes um Vestido ou um Fato de Casamento.
+73	Não tens um Cavalo.
+74	O teu Cavalo está Morto.
+75	A resistência do teu Cavalo está muito em baixo.
+76	A Invocação do Cavalo falhou.
+77	Não há melhoramento possível.
+78	Este Item não pode ser melhorado.
+79	Não tens Yang suficiente para melhorar.
+80	Não tens os materiais necessários!
+81	Este Pergaminho de Melhoramento não está disponível neste momento.
+82	Não podes melhorar com este Pergaminho.
+83	Só podes ser recompensado uma vez pela Missão da Torre do Demónio.
+84	Este Item não pode ser melhorado desta forma.
+85	Não podes juntar Pergaminhos do Melhoramento idênticos.
+86	O Pergaminho da Bênção e o Metal Mágico pode ser fundidos
+87	Não há Pedras Espíritas para serem removidas.
+88	Não podes proteger esta área.
+89	Não há espaço suficiente no inventário.
+90	O teu nível é inferior ao nível requerido.
+91	Não te podes transportar para uma posição segura num reino desconhecido.
+92	Não tens HP suficiente.
+93	Não tens SP suficiente!
+94	Não podes usar este item em duelo.
+95	Não podes fazer aqui uma fogueira.
+96	Não podes fazer uma fogueira debaixo de água.
+97	Fechado. Deves de procurar pela Chave.
+98	Este Item não pode ser aberto com uma Chave.
+99	Esta é a Chave verdadeira.
+100	Recebeste %d de Yang.
+101	Umas luzes misteriosas sairam de dentro da caixa.
+102	Tu recebeste %d Pontos de Experiência.
+103	Um monstro saiu de dentro da caixa!
+104	Se inalares fumo vermelho desta caixa, irás andar muito mais rápido!
+105	A caixa explodiu derrepente! A tua vida foi reduzida.
+106	Se inalares fumo verde desta caixa, irá se espalhar veneno por todo o teu corpo!
+107	Encontraste %s na caixa. A caixa continha %d.
+108	A caixa contém %s.
+109	Esta Chave aparentemente não cabe na fechadura.
+110	Não foi possível receber a recompensa.
+111	Diminuíste o nível da tua habilidade.
+112	Não podes diminuir o nível da tua Habilidade.
+113	O efeito já está em curso.
+114	Este Item só pode ser usado num Cybercafé.
+115	Não podes usar isto em duelo.
+116	Não é permitido aqui.
+117	Usou um Bolo da Lua ou uma Semente.
+118	Não podes usar um anel de casamento se não estiveres casado.
+119	Não podes usar o Detector de Eventos a partir deste sitio.
+120	O Detector de Eventos desapareceu numa luz misteriosa.
+121	O Detector de Eventos desapareceu.
+122	Está uma Pedra dentro da Ostra.
+123	A Ostra desapareceu completamente.
+124	Está uma Pérola Branca dentro da Ostra.
+125	Está uma Pérola Azul dentro da Ostra.
+126	Está uma Pérola Vermelha dentro da Ostra.
+127	Não podes mudar os teus atributos enquanto estás transformado.
+128	Não é fácil entender este livro.
+129	Este livro não te irá ajudar.
+130	Necessitas de nível 30 para compreenderes.
+131	Necessitas de nível 50 para compreenderes.
+132	Não podes treinar mais Combos.
+133	Já falas esta língua fluentemente.
+134	Não podes melhorar mais as tuas habilidades.
+135	Tens de aumentar o teu nível para entenderes este livro.
+136	Não podes treinar mais com este livro.
+137	Não tens o nível apropriado para treinar a montar.
+138	Escapaste à maldição do Fantasma do Mal Amaldiçoado com a ajuda de um Pergaminho do Exorcismo.
+139	Não podes ler mais Manuais de Equitação.
+140	Recebeste Pontos de Equitação após a leitura do Manual de Equitação.
+141	Podes aumentar o nível da Habilidade de Montar através dos pontos recebidos.
+142	Não entendeste o Manual de Equitação.
+143	A tua mente está vazia. Podes agora te concentrar.
+144	Recebeste %d Pontos de Karma.
+145	Não podes tingir ou descolorar o teu cabelo.
+146	Necessitas de alcançar o nível %d para pintares o teu cabelo novamente.
+147	Este Item só pode ser aberto por pessoas do sexo oposto.
+148	A Bênção do Rei está activa.
+149	Não podes alterar o bónus deste item.
+150	Não podes usar do sitio onde estás.
+151	Estás pronto para transportar por isso não podes usar o Pergaminho do Retorno.
+152	Foste levado para o local de origem.
+153	%s%s não pode ser usado em caverna.
+154	Não tens actualizações, podes mudar possivelmente.
+155	Alteraste o Bónus do Item.
+156	Não há nenhuma pedra para ser limpa.
+157	Podes fazer isto apenas %d minutos após um melhoramento. (%d minutos restantes)
+158	O encantamento foi adicionado com sucesso
+159	O encantamento não pôde ser adicionado.
+160	Não podes adicionar mais atributos a este item.
+161	Não podes usar este Item para outros melhoramentos.
+162	Por favor usa o Pergaminho da Evolução para adicionares outro melhoramento.
+163	Foi adicionado um espaço com sucesso.
+164	O espaço não foi adicionado.
+165	Não podes adicionar mais espaços aqui.
+166	Não podes adicionar um espaço neste Item.
+167	Melhoramento com sucesso.
+168	O melhoramento falhou.
+169	Tens de usar um Diamante antes de adicionares um espaço.
+170	Não há espaço disponível para as jóias.
+171	Tens de adicionar um espaço se quiseres usar um Diamante.
+172	Não podem ser adicionadas mais jóias.
+173	O Item não pode ser equipado.
+174	Não podes mudar a isca e pesca.
+175	Alteraste o isco actual por %s.
+176	Prendeste %s no Anzol
+177	Não tens ingredientes suficientes para criar a poção.
+178	Não tens ingredientes suficientes(%s).
+179	Não há garrafas vazias que chegue.
+180	A criação da poção falhou.
+181	Não podes prender várias Pedras Espíritas do mesmo tipo.
+182	Não podes adicionar aí uma Pedra.
+183	Não podes adicionar esta Pedra a essa Arma.
+184	Não há espaço disponível.
+185	Prendeste a Pedra com sucesso.
+186	Não prendeste a Pedra.
+187	O item não pode ser removido da janela de rodar, o inventário está cheio.
+188	Não pode ser usado
+189	Não podes usar um Pergaminho do Retorno durante uma Batalha do Reino.
+190	Não podes usar nenhum Pergaminho do Retorno após teres aberto o Armazém passado %d segundos.
+191	Não podes usar o Pergaminho de Retorno enquanto tiveres uma outra janela aberta.
+192	Não podes usar um Pergaminho do Retorno durante %d segundos após teres aberto o Armazém.
+193	Não podes usar o Pergaminho do Retorno porque a distância é reduzida.
+194	Após um negócio não podes usar um Pergaminho do Retorno durante %d segundos.
+195	Não podes abrir o armazém se já tiveres outra janela aberta.
+196	Não podes largar este Item.
+197	O item largado irá desaparecer dentro de 3 minutos.
+198	Não podes mover um item que se encontra a rodar.
+199	Este item não pode ser posto na janela de rodar.
+200	Recebeste %s.
+201	Recebeste %s - Inventário de Material
+202	Recebeste %s - Inventário dos Livros
+203	Recebeste %s - Inventário das Pedras
+204	Tens demasiados items.
+205	Recebeste o seguinte item do jogador %s: %s 
+206	Troca de items: de %s, %s 
+207	Não podes alterar os Items equipados enquanto estás transformado.
+208	Tens de estar parado para poderes equipar este Item.
+209	Não podes alimentar um Cavalo com Ervas.
+210	Não podes alimentar um Cavalo morto.
+211	Alimentaste o Cavalo com Ervas.
+212	Alimentaste o Cavalo.
+213	O teu nível é demasiado baixo para usares este estilo de cabelo.
+214	Já tens esse estilo de cabelo.
+215	Já estás transformado.
+216	Este item não é apropriado para negociação.
+217	Não te podes transformar num jogador que tenha um nível superior ao teu.
+218	O teu nível é demasiado baixo para equipar isto.
+219	Não cumpres todos os requerimentos para usar esse equipamento.
+220	A tua Inteligência é demasiado baixa para equipares este item.
+221	A tua Agilidade é demasiado baixa para equipar este item.
+222	A tua vitalidade está demasiado baixa para equipares isto.
+223	Não podes equipar este item novamente.
+224	Não podes estar com este item porque não estás casado.
+225	Precisas de retirar o traje de arma para fazeres isso.
+226	Não podes usar o traje de arma sem teres uma arma equipada.
+227	Este traje de arma não é equivalente ao tipo da tua arma equipada.
+228	Não podes treinar esta habilidade.
+229	Não podes treinar essa Habilidade em Grande Mestre.
+230	Já és um Mestre nesta Habilidade. Não a podes treinar mais.
+231	A tua Habilidade não é alta o suficiente para se tornar em Grande Mestre
+232	Não resultou!
+233	O Treino falhou. Por favor tenta novamente mais tarde.
+234	O meu corpo está cheio de poder!
+235	Vem ai alguma coisa!
+236	Completaste um treino de nível elevado com sucesso.
+237	Não tens Experiência suficiente para ler um livro!
+238	Não podes treinar esta Habilidade com um Livro.
+239	Esta Habilidade não é alta o suficiente para ser treinada com um Livro.
+240	Leste o livro e terminaste o treino com sucesso.
+241	Tu percebeste algumas partes da técnica mas ainda te falta algum conhecimento.
+242	A técnica é difícil de compreender.
+243	Tens de treinar arduamente para entenderes esta técnica.
+244	Podes completar o teu treino após ter lido %d livros.
+245	O transporte falhou.
+246	Não há Cavalo aqui. Pergunta ao Rapaz.
+247	Por favor usa um Item para invocar o Cavalo
+248	%s Uso de Mana: %d 
+249	Por favor introduza a ordem completa.
+250	Não podes fazer isso enquanto montas a Cavalo.
+251	Não podes fazer isto enquanto estás a cair.
+252	Nos meus sonhos? O quê?
+253	Levanta-te primeiro.
+254	Esta Ordem não existe.
+255	Só podes fazer isto quando tens equipado uma Máscara de Emoções.
+256	Apenas pessoas do sexo feminino podem fazer isto.
+257	Este jogador não existe.
+258	Estás muito perto.
+259	Estás demasiado longe.
+260	Isto só pode ser feito por uma pessoa de outro sexo.
+261	Deves de ter o reconhecimento do teu parceiro.
+262	Por favor chama o teu Cavalo.
+263	Mandaste o teu Cavalo de volta para o Estábulo.
+264	Tens de sair do teu Cavalo.
+265	Não podes alimentar o teu cavalo enquanto o montas.
+266	Deste %s%s ao teu Cavalo.
+267	<Cavalo> Precisas de %s para alimentar o teu Cavalo.
+268	%d segundos para o servidor desligar.
+269	O teu Logout foi cancelado.
+270	A voltar à página de login. Por favor espera.
+271	Estás a ser desligado do servidor. Por favor espera.
+272	Estás a mudar de personagem. Por favor espera.
+273	Impossível reiniciar. Por favor espera mais %d segundos.
+274	Ainda não é possível começar de novo na Cidade. Espera mais %d segundos.
+275	Perdeste a chance de ressuscitar. Volta para a Cidade.
+276	O jogador está agora a lutar.
+277	<Guild> A Guild está cheia.
+278	<Guild> Não é possível aumentar a capacidade da Guild.
+279	<Grupo> Não podes sair do Grupo.
+280	<Grupo> Saíste do Grupo.
+281	<Guild> Rejeitaste a Guerra de Guild..
+282	<Guild> Não está registado para Guerras de Guild.
+283	<Guild> Esta Guild não existe.
+284	<Guild> A Guild já tem uma Guerra de Guild já está em curso.
+285	<Guild> A Guild tem dinheiro suficiente para iniciar uma Guerra de Guild.
+286	<Guild> Esta Guild tem Ouro suficiente para participar numa guerra.
+287	Já declaraste guerra a esta Guild.
+288	<Guild> A Guild já tem uma Guerra de Guild preparada.
+289	<Guild> Já está a decorrer uma Guerra de Guild.
+290	<Guild> A Classificação é muito baixa para uma Guerra de Guild.
+291	<Guild> É necessário no mínimo %d membros para participar.
+292	<Guild> Esta Guild tem Pontos suficientes para participar numa guerra.
+293	<Guild> Esta Guild não tem membros suficientes para participar numa Guerra.
+294	%s rejeitou o pedido de amizade.
+295	Não podes aceitar o convite porque já estás em grupo.
+296	Tempo de Carregamento: %d segundos.
+297	Instrução: warpto <nome da personagem>
+298	Não te podes transportar para um jogador inimigo.
+299	Adicionar %d jogador(es) para o Canal. (Canal Actual %d)
+300	Vais ser transportado para %s.
+301	Informações do Rei
+302	[%s] Imperador : %s Cofre : %lld Yang
+303	[%sLord] : %s 
+304	Informação do Imperador
+305	Apenas o Imperador pode usar isto.
+306	Escolha um número entre 1 - 50.
+307	As taxas estão definidas em %d%%.
+308	Não foi possível chamar o monstro. Verifica o seu número.
+309	O nome de Guild é inválido
+310	(%s) Foi criado uma Guild.
+311	A Guild está em guerra.
+312	A Guild %s não existe.
+313	Não existe nenhuma Guild com este nome ou número.
+314	O Edifício não existe.
+315	Este tipo de Edifício pode ser apenas construído uma vez.
+316	A Base do Edifício era para ser feita primeiro.
+317	A Construção falhou dado a um preço incorrecto.
+318	Não tens Yang suficiente para construir os Edifícios.
+319	Não tens recursos suficientes para este edifício.
+320	Não podes construir um Edifício neste lugar.
+321	Esta personagem não existe.
+322	O duelo não foi cancelado.
+323	O duelo foi cancelado com sucesso.
+324	O inicio do duelo foi com sucesso.
+325	Há um problema com o começo do duelo.
+326	Não há lá adversários.
+327	Não podes adicionar mais pontos!
+328	Não podes adicionar mais pontos!
+329	Introduziste um valor errado.
+330	A Ordem ou Subordem está incorrecta.
+331	Contracto quebrado entre o jogador %d e o jogador %d.
+332	Informação sobre outros Reinos
+333	Escolhe o Mapa de Informação da Terra Santa %d Entrada %d %d %d
+334	Informações sobre o Reino de Batalha.
+335	[OX] Os outros participantes no evento não estão listados.
+336	[OX] Os outros participantes do evento não estão inscritos.
+337	Número de outros participantes: %d 
+338	A janela de criação já está aberta.
+339	Não podes usar isso agora.
+340	A tela de criação não está disponível.
+341	Não tens ingredientes suficientes.
+342	Não tens Yang ou espaço suficiente no inventário.
+343	Alguém está a entrar na conta. Vais ser desconectado do servidor.
+344	Não podes negociar enquanto estão a observar.
+345	 pessoa com quem estás a tentar negociar cancelou a troca
+346	Não podes trocar este item.
+347	A pessoa com quem estás a tentar negociar não tem Yang ou espaço suficiente no inventário.
+348	A pessoa com quem estás a tentar negociar não tem espaço suficiente no inventário.
+349	O negócio com %s foi bem sucedido!
+350	Os teus pontos foram aumentados! (%d/%d)
+351	Não podes melhorar a tua cana de pesca.
+352	Melhora a tua Cana de Pesca com a ajuda do Pescador.
+353	Perdeste o isco!
+354	Capturaste um %s!
+355	O tamanho do peixe capturado é de %.2fcm.
+356	%s: %d
+357	Tu causaste %d de %d .
+358	Os peixes desapareceram na água.
+359	Está uma Concha dentro do Peixe.
+360	Está uma Minhoca dentro do Peixe.
+361	Colocaste %s entre arcos.
+362	A guerra já terminou.
+363	A janela de comércio já está aberta!
+364	<Armazém> Senha mudada com Sucesso.
+365	<Armazém> Senha incorrecta
+366	Vai terminar dentro de %d minutos.
+367	Fundos restantes de %s: %d Yang.
+368	Não tens Yang suficiente.
+369	A Taxa de Drop de items foi aumentada por %d%% por causa da tua sorte.
+370	Bónus de +%d%% de Yang está activo!
+371	A Taxa de Drop de Yang foi aumentada para %d%% por causa da tua sorte 
+372	Bónus de +%d%% de Experiência está activo!
+373	A versão do teu cliente está desactualizada. Por favor executa o Patch.
+374	O teu chat está bloqueado.
+375	Precisas de nível %d para poderes chamar.
+376	Não estás neste Grupo.
+377	Não pertences a uma Guild.
+378	O jogador rejeitou ser adicionado à lista de amigos.
+379	<Amigos> Não é possível adicionar membros da Equipa.
+380	%s não está Online.
+381	Após teres negociado não podes abrir o Armazém durante %d segundos.
+382	Podes negociar novamente passado %d segundos.
+383	Tens mais de 2 Biliões de Yang. Não podes trocar.
+384	Não podes abrir uma Loja Privada enquanto estás a negociar.
+385	O jogador tem mais de 2 Biliões de Yang. Não podes negociar com ele.
+386	<Armazém> Não é possível mover.
+387	<Armazém> Não podes guardar este Item no Armazém.
+388	<Grupo> O Jogador não está Online.
+389	<Grupo> Apenas o líder do grupo pode mudar isso.
+390	<Grupo> O Jogador não está no grupo.
+391	<Grupo> Não podes excluír membros do Grupo.
+392	<Grupo> Não podes excluír membros do Grupo.
+393	<Grupo> Foste removido do grupo.
+394	<Grupo> Não podes sair do Grupo.
+395	<Grupo> Não podes excluir membros do Grupo.
+396	<Guild> Após a exclusão da Guild só pode ser criada uma nova após %d dias
+397	<Guild> Não podes criar uma nova Guild após %d dias.
+398	<Guild> A Guild [%s] foi criada com Sucesso.
+399	<Guild> Não foi possível criar a Guild.
+400	<Grupo> Apenas o líder do grupo pode usar habilidades!
+401	<Grupo> O Jogador não foi encontrado.
+402	<Guild> Não há Ouro suficiente.
+403	<Guild> Não tens ouro suficiente.
+404	<Guild> Não foi possível encontrar.
+405	<Guild> A pessoa não consta na Guild.
+406	<Guild> Podes remover qualquer membro da Guild.
+407	<Guild> Removeste um membro da Guild.
+408	<Guild> Não podes alterar estatutos.
+409	<Guild> Não podes escolher o Líder.
+410	<Guild> Esta classificação não é valida.
+411	<Guild> Não podes alterar posições.
+412	<Guild> Não podes alterar o teu estatuto.
+413	<Guild> Não foi possível doar experiência.
+414	<Guild> Não há ouro existente.
+415	<Guild> Os Dragões Fantasma não foram restaurados.
+416	<Guild> Não podes postar uma Mensagem.
+417	<Guild> Não podes mudar a tua posição.
+418	<Guild> Não podes alterar a classificação do Líder.
+419	<Guild> Não podes ser Líder da Guild.
+420	<Guild> Não podes escolher o Líder.
+421	<Guild> Apenas podes escolher um Líder.
+422	Tens mais de 2 Biliões de Yang. Não podes trocar.
+423	As Gemas de %s irão desaparecer.
+424	<Amigos> Adicionaste o jogador %s à tua Lista de Amigos.
+425	<Amigos> Apagaste o jogador %s da tua Lista de Amigos.
+426	Os teus pontos de mineração estão no máximo. (%d).
+427	Os teus pontos de mineração estão no máximo.
+428	Podes melhorar a tua picareta no Dekobae.
+429	Os teus pontos de mineração foram aumentados (%d/%d)
+430	Sem uma picareta não podes minar qualquer veio.
+431	Não há nada para minar aqui.
+432	A mineração terminou com sucesso.
+433	A mineração falhou.
+434	A Energia é reflectida por causa da Bênção do Imperador.
+435	Não tem qualificações para ser Imperador.
+436	Só podes usar a Bênção dos Anjos após terem passado %d segundos.
+437	[TEST_ONLY] Tesouro Nacional Actual: %d 
+438	Número total de questões: %d 
+439	Correcto!
+440	<Grupo> O Grupo foi apagado.
+441	<Grupo> Não podes convidar essa pessoa.
+442	<Grupo> Não podes chamar um membro do grupo.
+443	O teu Grupo cooperou e recebeu um Bónus de Experiência.
+444	Falhaste a transformar.
+445	Tens de terminar o treino. Por favor ter com o teu mestre.
+446	O Duelo com %s começou!
+447	Desafiaste %s para duelo!
+448	Tempo restante de carregamento: %d minutos
+449	O teu pedido está a carregar. Sê paciente.
+450	<Quest> A recompensa já foi gasta, chegaste tarde demais.
+451	A venda tem uma Taxa de Impostos de %d%%.
+452	A janela de comércio já está aberta!
+453	Estás demasiado longe da loja para comprar.
+454	Estás demasiado longe da loja para vender.
+455	Tens mais de 2 Biliões de Yang, não podes trocar.
+456	Podes participar na Batalha de Guilds no Modo de Observação
+457	Clica no icon <Terminar modo de Observação> para sair da guerra.
